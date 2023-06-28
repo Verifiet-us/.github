@@ -15,5 +15,7 @@ Feel free to give us any feedbacks to improve our products and services.
 ### Useful Links
 
 [Developer Docs](https://docs.verifiet.com)
+
 [Changelog](https://verifiet.com/changelog)
+
 [API Status](https://status.verifiet.com)
