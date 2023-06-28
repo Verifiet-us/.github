@@ -6,13 +6,13 @@ add verification capabilities into their products and workflows faster.
 
 
 
-## Contact Us
+### Contact Us
 
 You can get in touch with us by visiting [our website](https://verifiet.com) or following us on our [LinkedIn](https://www.linkedin.com/company/verifiet).
 Feel free to give us any feedbacks to improve our products and services.
 
 
-# Useful Links
+### Useful Links
 
 [Developer Docs](https://docs.verifiet.com)
 [Changelog](https://verifiet.com/changelog)
